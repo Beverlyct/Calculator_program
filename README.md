@@ -1,2 +1,2 @@
 # Calculator_program
- Its just a simple calculator program
+ Simple calculator program using HTML CSS & javaScript.
